@@ -34,6 +34,6 @@ Supports **user authentication (JWT)**, **video CRUD operations**, **filtering &
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/optimalvid.git
+git clone https://github.com/stephen-lakes/optimalvid.git
 cd optimalvid
 ```
